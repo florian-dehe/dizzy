@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"github.com/florian-dehe/dizzy/cli"
+)
 
 func main() {
-	fmt.Println("Hello dizzy !")
+	cli.Execute()
 }

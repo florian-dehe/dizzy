@@ -1,0 +1,27 @@
+{
+  "app_name": "dizzy",
+  "description": "An excellent tool",
+
+  "some_numbers": 1,
+  "some_booleans": false,
+  "some_list": ["a", "b", "c"],
+
+  "data": [
+    {
+      "first": "oui",
+      "second": 12,
+      "third": false,
+    },
+    {
+      "first": "non",
+      "second": 34,
+      "third": false,
+    },
+    {
+      "first": "peut-être",
+      "second": 56,
+      "third": true,
+      "fourth": 1.0
+    },
+  ]
+}
